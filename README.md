@@ -1,2 +1,2 @@
-# provu
-UChicago StuffSharing
+# entrep
+Entrepreneurial resources 3.0
